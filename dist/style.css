@@ -16,3 +16,8 @@ dialog{color:var(--ink);background:#222c20;border:2px solid #76875d;box-shadow:8
 .reward-image-box img{width:134px;height:134px;object-fit:contain}
 .quiz-bottom .back-link{white-space:nowrap}.quiz-bottom .question-dots{flex:1;min-width:0;justify-content:center}
 @media(prefers-reduced-motion:reduce){*,*:before,*:after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+
+
+
+.personality-details{margin-top:26px}.personality-grid{display:grid;grid-template-columns:1fr 1fr;gap:24px 30px}.personality-reading h3{font-size:16px;color:#d6e1c5;margin:9px 0}.personality-reading p{font-size:13px;line-height:1.95;color:#bdc8b1}.personality-reading .eyebrow{font-size:10px}.result-right .tags{justify-content:flex-start;margin-top:17px}
+@media(max-width:700px){.personality-grid{grid-template-columns:1fr;gap:23px}}

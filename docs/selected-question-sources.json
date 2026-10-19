@@ -1,0 +1,272 @@
+[
+  {
+    "id": "ipip-selected-O-1",
+    "original": "Have a vivid imagination.",
+    "source": "https://ipip.ori.org/30FacetNEO-PI-RItems.htm",
+    "facet": "O1 想象",
+    "keyed": "plus",
+    "type": "single",
+    "text": "读到一个故事，或者听别人讲经历时，你脑海里的画面通常是？"
+  },
+  {
+    "id": "ipip-selected-C-2",
+    "original": "Leave my belongings around.",
+    "source": "https://ipip.ori.org/30FacetNEO-PI-RItems.htm",
+    "facet": "C2 秩序",
+    "keyed": "minus",
+    "type": "scale",
+    "text": "用完东西后，我经常随手一放，过后才想起来它还没归位。"
+  },
+  {
+    "id": "ipip-selected-E-3",
+    "original": "Wait for others to lead the way.",
+    "source": "https://ipip.ori.org/30FacetNEO-PI-RItems.htm",
+    "facet": "E3 主动表达",
+    "keyed": "minus",
+    "type": "binary",
+    "text": "大家都还没决定下一步时，你更常？"
+  },
+  {
+    "id": "ipip-selected-A-4",
+    "original": "Get back at others.",
+    "source": "https://ipip.ori.org/30FacetNEO-PI-RItems.htm",
+    "facet": "A4 合作",
+    "keyed": "minus",
+    "type": "scale",
+    "text": "被人冒犯以后，我常会想着找机会还回去。"
+  },
+  {
+    "id": "ipip-selected-N-5",
+    "original": "Rarely overindulge.",
+    "source": "https://ipip.ori.org/30FacetNEO-PI-RItems.htm",
+    "facet": "N5 克制",
+    "keyed": "minus",
+    "type": "single",
+    "text": "遇到特别喜欢的吃喝或娱乐，你通常怎样把握分寸？"
+  },
+  {
+    "id": "ipip-selected-O-2",
+    "original": "See beauty in things that others might not notice.",
+    "source": "https://ipip.ori.org/30FacetNEO-PI-RItems.htm",
+    "facet": "O2 审美",
+    "keyed": "plus",
+    "type": "scale",
+    "text": "我常会在别人没有留意的地方发现美，比如光影、声音或细小的纹理。"
+  },
+  {
+    "id": "ipip-selected-C-3",
+    "original": "Keep my promises.",
+    "source": "https://ipip.ori.org/30FacetNEO-PI-RItems.htm",
+    "facet": "C3 守诺",
+    "keyed": "plus",
+    "type": "binary",
+    "text": "答应别人一件小事，没有人提醒时，你通常更接近？"
+  },
+  {
+    "id": "ipip-selected-E-4",
+    "original": "Like to take it easy.",
+    "source": "https://ipip.ori.org/30FacetNEO-PI-RItems.htm",
+    "facet": "E4 活动节奏",
+    "keyed": "minus",
+    "type": "scale",
+    "text": "我喜欢放慢生活节奏，不想让空闲时间塞满各种活动。"
+  },
+  {
+    "id": "ipip-selected-A-5",
+    "original": "Boast about my virtues.",
+    "source": "https://ipip.ori.org/30FacetNEO-PI-RItems.htm",
+    "facet": "A5 谦逊",
+    "keyed": "minus",
+    "type": "single",
+    "text": "聊到自己做得不错的事情，你通常会怎样讲？"
+  },
+  {
+    "id": "ipip-selected-N-6",
+    "original": "Panic easily.",
+    "source": "https://ipip.ori.org/30FacetNEO-PI-RItems.htm",
+    "facet": "N6 压力应对",
+    "keyed": "plus",
+    "type": "scale",
+    "text": "突发情况一起出现时，我很容易慌张，一时不知道先处理什么。"
+  },
+  {
+    "id": "ipip-selected-O-3",
+    "original": "Prefer to stick with things that I know.",
+    "source": "https://ipip.ori.org/30FacetNEO-PI-RItems.htm",
+    "facet": "O4 尝新",
+    "keyed": "minus",
+    "type": "binary",
+    "text": "两种安排都方便、也都负担得起，你通常更偏向？"
+  },
+  {
+    "id": "ipip-selected-C-4",
+    "original": "Work hard.",
+    "source": "https://ipip.ori.org/30FacetNEO-PI-RItems.htm",
+    "facet": "C4 投入",
+    "keyed": "plus",
+    "type": "scale",
+    "text": "为了做好自己认定的事情，我愿意持续投入时间和精力。"
+  },
+  {
+    "id": "ipip-selected-E-5",
+    "original": "Seek adventure.",
+    "source": "https://ipip.ori.org/30FacetNEO-PI-RItems.htm",
+    "facet": "E5 刺激寻求",
+    "keyed": "plus",
+    "type": "single",
+    "text": "有机会参加一项风险可控、带点刺激的体验，你通常？"
+  },
+  {
+    "id": "ipip-selected-A-6",
+    "original": "Feel sympathy for those who are worse off than myself.",
+    "source": "https://ipip.ori.org/30FacetNEO-PI-RItems.htm",
+    "facet": "A6 同情",
+    "keyed": "plus",
+    "type": "scale",
+    "text": "看到处境比自己困难的人，我通常会真切地替对方难受。"
+  },
+  {
+    "id": "ipip-selected-N-1",
+    "original": "Worry about things.",
+    "source": "https://ipip.ori.org/30FacetNEO-PI-RItems.htm",
+    "facet": "N1 担忧",
+    "keyed": "plus",
+    "type": "single",
+    "text": "事情的结果还没确定时，你脑中通常更接近哪种状态？"
+  },
+  {
+    "id": "ipip-selected-O-4",
+    "original": "Avoid philosophical discussions.",
+    "source": "https://ipip.ori.org/30FacetNEO-PI-RItems.htm",
+    "facet": "O5 观念探索",
+    "keyed": "minus",
+    "type": "scale",
+    "text": "聊到“人为什么会这样想”之类没有直接答案的问题时，我通常想尽快换个话题。"
+  },
+  {
+    "id": "ipip-selected-C-5",
+    "original": "Have difficulty starting tasks.",
+    "source": "https://ipip.ori.org/30FacetNEO-PI-RItems.htm",
+    "facet": "C5 自律",
+    "keyed": "minus",
+    "type": "single",
+    "text": "一件该做的事已经摆在面前，你通常多久能真正开始？"
+  },
+  {
+    "id": "ipip-selected-E-6",
+    "original": "Radiate joy.",
+    "source": "https://ipip.ori.org/30FacetNEO-PI-RItems.htm",
+    "facet": "E6 积极情绪",
+    "keyed": "plus",
+    "type": "scale",
+    "text": "我开心起来时，身边的人通常也很容易被我的兴致带动。"
+  },
+  {
+    "id": "ipip-selected-A-1",
+    "original": "Trust others.",
+    "source": "https://ipip.ori.org/30FacetNEO-PI-RItems.htm",
+    "facet": "A1 信任",
+    "keyed": "plus",
+    "type": "single",
+    "text": "和一个刚认识、还不了解的人合作，你通常从哪里开始？"
+  },
+  {
+    "id": "ipip-selected-N-2",
+    "original": "Am not easily annoyed.",
+    "source": "https://ipip.ori.org/30FacetNEO-PI-RItems.htm",
+    "facet": "N2 烦躁",
+    "keyed": "minus",
+    "type": "scale",
+    "text": "遇到让人不顺心的小事，我通常不太容易被惹恼。"
+  },
+  {
+    "id": "ipip-selected-O-5",
+    "original": "Spend time reflecting on things.",
+    "source": "https://ipip.ori.org/newBigFive5broadKey.htm",
+    "facet": "O 反思",
+    "keyed": "plus",
+    "type": "single",
+    "text": "一件事情告一段落后，你通常会花多少心思回想它？"
+  },
+  {
+    "id": "ipip-selected-C-6",
+    "original": "Jump into things without thinking.",
+    "source": "https://ipip.ori.org/30FacetNEO-PI-RItems.htm",
+    "facet": "C6 审慎",
+    "keyed": "minus",
+    "type": "scale",
+    "text": "我有时还没想清楚可能的后果，就已经答应或开始行动了。"
+  },
+  {
+    "id": "ipip-selected-E-1",
+    "original": "Make friends easily.",
+    "source": "https://ipip.ori.org/30FacetNEO-PI-RItems.htm",
+    "facet": "E1 亲近感",
+    "keyed": "plus",
+    "type": "single",
+    "text": "来到一个新集体，你通常怎样认识新朋友？"
+  },
+  {
+    "id": "ipip-selected-A-2",
+    "original": "Use others for my own ends.",
+    "source": "https://ipip.ori.org/30FacetNEO-PI-RItems.htm",
+    "facet": "A2 真诚",
+    "keyed": "minus",
+    "type": "scale",
+    "text": "我有时会为了达到自己的目的利用别人。"
+  },
+  {
+    "id": "ipip-selected-N-3",
+    "original": "Feel comfortable with myself.",
+    "source": "https://ipip.ori.org/30FacetNEO-PI-RItems.htm",
+    "facet": "N3 自我感受",
+    "keyed": "minus",
+    "type": "binary",
+    "text": "大多数时候，和自己相处的感觉更接近？"
+  },
+  {
+    "id": "ipip-selected-O-6",
+    "original": "Rarely notice my emotional reactions.",
+    "source": "https://ipip.ori.org/30FacetNEO-PI-RItems.htm",
+    "facet": "O3 内在感受",
+    "keyed": "minus",
+    "type": "scale",
+    "text": "事情发生时，我很少留意自己究竟有什么情绪反应。"
+  },
+  {
+    "id": "ipip-selected-C-1",
+    "original": "Complete tasks successfully.",
+    "source": "https://ipip.ori.org/30FacetNEO-PI-RItems.htm",
+    "facet": "C1 胜任感",
+    "keyed": "plus",
+    "type": "single",
+    "text": "回想最近几次由你负责到底的事情，通常怎样收尾？"
+  },
+  {
+    "id": "ipip-selected-E-2",
+    "original": "Prefer to be alone.",
+    "source": "https://ipip.ori.org/30FacetNEO-PI-RItems.htm",
+    "facet": "E2 群体偏好",
+    "keyed": "minus",
+    "type": "scale",
+    "text": "自由安排休息时间时，我通常更愿意一个人待着。"
+  },
+  {
+    "id": "ipip-selected-A-3",
+    "original": "Am concerned about others.",
+    "source": "https://ipip.ori.org/30FacetNEO-PI-RItems.htm",
+    "facet": "A3 关心",
+    "keyed": "plus",
+    "type": "binary",
+    "text": "日常相处中，你的注意力更常放在？"
+  },
+  {
+    "id": "ipip-selected-N-4",
+    "original": "Am afraid to draw attention to myself.",
+    "source": "https://ipip.ori.org/30FacetNEO-PI-RItems.htm",
+    "facet": "N4 自我意识",
+    "keyed": "plus",
+    "type": "scale",
+    "text": "成为大家注意的焦点时，我常会担心自己的表现，感到不自在。"
+  }
+]

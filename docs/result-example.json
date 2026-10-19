@@ -1,0 +1,923 @@
+{
+  "version": 5,
+  "questionnaire": "ipip-selected-30-v4",
+  "dimensionOrder": [
+    "O",
+    "C",
+    "E",
+    "A",
+    "N"
+  ],
+  "means": [
+    3,
+    3,
+    3,
+    3,
+    3
+  ],
+  "vector": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "scores": [
+    50,
+    50,
+    50,
+    50,
+    50
+  ],
+  "matchingMethod": "centered-cosine-v1",
+  "signalStrength": 0,
+  "ranking": [
+    {
+      "item": {
+        "id": "respawn_anchor",
+        "name": "重生锚",
+        "english": "RESPAWN ANCHOR",
+        "core": "把未来的退路，变成此刻的底气。",
+        "tags": [
+          "长线布局",
+          "提前准备"
+        ],
+        "color": "#b9a1eb",
+        "review": "你习惯把视线放得远一点。别人看到的是眼前的一步，你已经在为之后的转折留出空间。重生锚适合这样的你：提前准备，让出发更有底气。",
+        "tip": "偶尔也给计划留一个空位，让意外的风景进入。",
+        "prototypeCode": "11000",
+        "profile": [
+          1,
+          1,
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "order": 0,
+      "prototypeCode": "11000",
+      "rawScore": 0,
+      "contributions": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "dimensionMatches": [
+        50,
+        50,
+        50,
+        50,
+        50
+      ],
+      "absoluteMatch": 50,
+      "cosine": 0,
+      "match": 50,
+      "weight": 0.0625,
+      "rank": 1
+    },
+    {
+      "item": {
+        "id": "enchanting_table",
+        "name": "附魔台",
+        "english": "ENCHANTING TABLE",
+        "core": "有趣的答案，藏在机制深处。",
+        "tags": [
+          "研究机制",
+          "探索组合"
+        ],
+        "color": "#bda1eb",
+        "review": "你愿意花时间弄清一个工具背后的原理。拆解原理、比较差异，再试出一个意想不到的组合，是你投入一件事的方式。附魔台像你的工作台：知识积累起来，普通材料也能拥有新可能。",
+        "tip": "把研究中的小发现拿出来试一次，体验也会给你答案。",
+        "prototypeCode": "10001",
+        "profile": [
+          1,
+          -1,
+          -1,
+          -1,
+          1
+        ]
+      },
+      "order": 1,
+      "prototypeCode": "10001",
+      "rawScore": 0,
+      "contributions": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "dimensionMatches": [
+        50,
+        50,
+        50,
+        50,
+        50
+      ],
+      "absoluteMatch": 50,
+      "cosine": 0,
+      "match": 50,
+      "weight": 0.0625,
+      "rank": 1
+    },
+    {
+      "item": {
+        "id": "command_block",
+        "name": "命令方块",
+        "english": "COMMAND BLOCK",
+        "core": "把一个想法，推进成共同的现实。",
+        "tags": [
+          "统筹调度",
+          "推动执行"
+        ],
+        "color": "#e8b080",
+        "review": "面对零散的想法，你倾向于找出方向、安排步骤，再推动事情真正发生。命令方块适合你组织和调度的节奏：让复杂的事情有顺序，让大家的努力能落到同一个目标上。",
+        "tip": "推进之前给不同意见一点空间，执行会更顺畅。",
+        "prototypeCode": "11101",
+        "profile": [
+          1,
+          1,
+          1,
+          -1,
+          1
+        ]
+      },
+      "order": 2,
+      "prototypeCode": "11101",
+      "rawScore": 0,
+      "contributions": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "dimensionMatches": [
+        50,
+        50,
+        50,
+        50,
+        50
+      ],
+      "absoluteMatch": 50,
+      "cosine": 0,
+      "match": 50,
+      "weight": 0.0625,
+      "rank": 1
+    },
+    {
+      "item": {
+        "id": "slime_block",
+        "name": "黏液块",
+        "english": "SLIME BLOCK",
+        "core": "换一种组合，世界就有新玩法。",
+        "tags": [
+          "发散试验",
+          "创造玩法"
+        ],
+        "color": "#b4d878",
+        "review": "在你眼里，东西未必只有说明书上的用法。试一试、拼一拼，甚至借一次失误弹向另一个方向，都能让你兴奋。黏液块适合你的创造方式：让点子彼此连接，再把可能性弹得更远。",
+        "tip": "给最喜欢的那个点子多一点打磨，它值得被完成。",
+        "prototypeCode": "10100",
+        "profile": [
+          1,
+          -1,
+          1,
+          -1,
+          -1
+        ]
+      },
+      "order": 3,
+      "prototypeCode": "10100",
+      "rawScore": 0,
+      "contributions": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "dimensionMatches": [
+        50,
+        50,
+        50,
+        50,
+        50
+      ],
+      "absoluteMatch": 50,
+      "cosine": 0,
+      "match": 50,
+      "weight": 0.0625,
+      "rank": 1
+    },
+    {
+      "item": {
+        "id": "sculk_sensor",
+        "name": "幽匿感测体",
+        "english": "SCULK SENSOR",
+        "core": "别人略过的细节，你听见了。",
+        "tags": [
+          "敏锐观察",
+          "捕捉信号"
+        ],
+        "color": "#78c5c5",
+        "review": "你常常先观察，再作判断。一点语气变化、一个不起眼的细节，都可能被你放进更完整的理解里。幽匿感测体适合你的敏锐：安静地接收信号，也在合适的时候作出回应。",
+        "tip": "把精力留给值得回应的信号，也给自己留些安静。",
+        "prototypeCode": "11011",
+        "profile": [
+          1,
+          1,
+          -1,
+          1,
+          1
+        ]
+      },
+      "order": 4,
+      "prototypeCode": "11011",
+      "rawScore": 0,
+      "contributions": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "dimensionMatches": [
+        50,
+        50,
+        50,
+        50,
+        50
+      ],
+      "absoluteMatch": 50,
+      "cosine": 0,
+      "match": 50,
+      "weight": 0.0625,
+      "rank": 1
+    },
+    {
+      "item": {
+        "id": "ender_chest",
+        "name": "末影箱",
+        "english": "ENDER CHEST",
+        "core": "重要的东西，有自己的位置。",
+        "tags": [
+          "内在价值",
+          "个人边界"
+        ],
+        "color": "#a39be0",
+        "review": "你重视的东西，未必需要所有人理解。自己的节奏、珍惜的关系和不想被打扰的空间，都值得认真安放。末影箱适合你：走到哪里，都能带着属于自己的那一部分。",
+        "tip": "遇到可信任的人，可以慢慢打开一格空间。",
+        "prototypeCode": "00011",
+        "profile": [
+          -1,
+          -1,
+          -1,
+          1,
+          1
+        ]
+      },
+      "order": 5,
+      "prototypeCode": "00011",
+      "rawScore": 0,
+      "contributions": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "dimensionMatches": [
+        50,
+        50,
+        50,
+        50,
+        50
+      ],
+      "absoluteMatch": 50,
+      "cosine": 0,
+      "match": 50,
+      "weight": 0.0625,
+      "rank": 1
+    },
+    {
+      "item": {
+        "id": "beacon",
+        "name": "信标",
+        "english": "BEACON",
+        "core": "自己发光，也让身边的人走得更远。",
+        "tags": [
+          "引领鼓舞",
+          "帮助成长"
+        ],
+        "color": "#8fd8d4",
+        "review": "你关注的不只是事情有没有完成，还有大家能不能一起走下去。把方向说清楚、给人一点支持、看见他人的进步，是你自然会做的事。信标适合你把个人行动变成共同力量的方式。",
+        "tip": "照亮别人时，也为自己的需要留一点能量。",
+        "prototypeCode": "11110",
+        "profile": [
+          1,
+          1,
+          1,
+          1,
+          -1
+        ]
+      },
+      "order": 6,
+      "prototypeCode": "11110",
+      "rawScore": 0,
+      "contributions": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "dimensionMatches": [
+        50,
+        50,
+        50,
+        50,
+        50
+      ],
+      "absoluteMatch": 50,
+      "cosine": 0,
+      "match": 50,
+      "weight": 0.0625,
+      "rank": 1
+    },
+    {
+      "item": {
+        "id": "elytra",
+        "name": "鞘翅",
+        "english": "ELYTRA",
+        "core": "边界之外，还有下一片风景。",
+        "tags": [
+          "自由探索",
+          "追逐可能"
+        ],
+        "color": "#c7b4e1",
+        "review": "比起一直停在确定的地方，你更愿意看看别处还有什么。新的路线、不同的经历和自己选择方向的自由，都能给你能量。鞘翅适合你的探索欲：顺着好奇心，让自己先飞出去。",
+        "tip": "给喜欢的风景一个落脚点，自由也可以有补给站。",
+        "prototypeCode": "10111",
+        "profile": [
+          1,
+          -1,
+          1,
+          1,
+          1
+        ]
+      },
+      "order": 7,
+      "prototypeCode": "10111",
+      "rawScore": 0,
+      "contributions": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "dimensionMatches": [
+        50,
+        50,
+        50,
+        50,
+        50
+      ],
+      "absoluteMatch": 50,
+      "cosine": 0,
+      "match": 50,
+      "weight": 0.0625,
+      "rank": 1
+    },
+    {
+      "item": {
+        "id": "shulker_box",
+        "name": "潜影盒",
+        "english": "SHULKER BOX",
+        "core": "准备妥当，走到哪里都有章法。",
+        "tags": [
+          "整理有序",
+          "准备充分"
+        ],
+        "color": "#b89ad4",
+        "review": "你擅长把零散的东西整理成能随时取用的秩序。关键时刻不慌张，往往来自日常的认真安排。潜影盒适合你：把需要的资源带在身边，让每次出发都有扎实的准备。",
+        "tip": "遇到小变化时，可以先照顾好目标，再慢慢整理细节。",
+        "prototypeCode": "01001",
+        "profile": [
+          -1,
+          1,
+          -1,
+          -1,
+          1
+        ]
+      },
+      "order": 8,
+      "prototypeCode": "01001",
+      "rawScore": 0,
+      "contributions": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "dimensionMatches": [
+        50,
+        50,
+        50,
+        50,
+        50
+      ],
+      "absoluteMatch": 50,
+      "cosine": 0,
+      "match": 50,
+      "weight": 0.0625,
+      "rank": 1
+    },
+    {
+      "item": {
+        "id": "totem_of_undying",
+        "name": "不死图腾",
+        "english": "TOTEM OF UNDYING",
+        "core": "关键时刻，你是让人安心的存在。",
+        "tags": [
+          "可靠守护",
+          "关键托底"
+        ],
+        "color": "#d9c482",
+        "review": "你会记得别人的难处，也愿意在需要的时候接住局面。不死图腾适合你踏实的关心：把支持变成具体行动，让重要的人多一份安心。",
+        "tip": "接受帮助，让彼此的支持持续得更久。",
+        "prototypeCode": "01010",
+        "profile": [
+          -1,
+          1,
+          -1,
+          1,
+          -1
+        ]
+      },
+      "order": 9,
+      "prototypeCode": "01010",
+      "rawScore": 0,
+      "contributions": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "dimensionMatches": [
+        50,
+        50,
+        50,
+        50,
+        50
+      ],
+      "absoluteMatch": 50,
+      "cosine": 0,
+      "match": 50,
+      "weight": 0.0625,
+      "rank": 1
+    },
+    {
+      "item": {
+        "id": "netherite_pickaxe",
+        "name": "下界合金镐",
+        "english": "NETHERITE PICKAXE",
+        "core": "一下一下，把目标挖成现实。",
+        "tags": [
+          "务实高效",
+          "持续推进"
+        ],
+        "color": "#b3a8ac",
+        "review": "你倾向于把问题落实到“下一步能做什么”。找到方法、保持节奏、持续推进，比空转更让你踏实。下界合金镐适合你的做事方式：稳定的行动，能一点点穿过坚硬的阻碍。",
+        "tip": "忙着推进时，偶尔确认一下目标是否仍值得投入。",
+        "prototypeCode": "01100",
+        "profile": [
+          -1,
+          1,
+          1,
+          -1,
+          -1
+        ]
+      },
+      "order": 10,
+      "prototypeCode": "01100",
+      "rawScore": 0,
+      "contributions": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "dimensionMatches": [
+        50,
+        50,
+        50,
+        50,
+        50
+      ],
+      "absoluteMatch": 50,
+      "cosine": 0,
+      "match": 50,
+      "weight": 0.0625,
+      "rank": 1
+    },
+    {
+      "item": {
+        "id": "conduit",
+        "name": "潮涌核心",
+        "english": "CONDUIT",
+        "core": "好的环境，让每个人都自在一点。",
+        "tags": [
+          "照应群体",
+          "共同环境"
+        ],
+        "color": "#7ed4ca",
+        "review": "你愿意留意共同生活里的小事：谁不太方便、哪里还能调整、怎样让大家舒服一点。潮涌核心适合你温和而持续的影响：改善周围的环境，让支持自然地发生在日常。",
+        "tip": "共同环境里也有你的位置，把自己的偏好说出来。",
+        "prototypeCode": "01111",
+        "profile": [
+          -1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "order": 11,
+      "prototypeCode": "01111",
+      "rawScore": 0,
+      "contributions": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "dimensionMatches": [
+        50,
+        50,
+        50,
+        50,
+        50
+      ],
+      "absoluteMatch": 50,
+      "cosine": 0,
+      "match": 50,
+      "weight": 0.0625,
+      "rank": 1
+    },
+    {
+      "item": {
+        "id": "diamond_sword",
+        "name": "钻石剑",
+        "english": "DIAMOND SWORD",
+        "core": "保持冷静，让技巧说话。",
+        "tags": [
+          "冷静实操",
+          "掌握技巧"
+        ],
+        "color": "#78d9ce",
+        "review": "你更相信上手之后得到的判断。看清局面、掌握技巧，再做出简洁有效的行动，是你熟悉的节奏。钻石剑适合你的专注：在真正需要的时候，让熟练的技巧稳稳发挥。",
+        "tip": "把自己的经验讲给别人听，也能让技巧更清晰。",
+        "prototypeCode": "00000",
+        "profile": [
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "order": 12,
+      "prototypeCode": "00000",
+      "rawScore": 0,
+      "contributions": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "dimensionMatches": [
+        50,
+        50,
+        50,
+        50,
+        50
+      ],
+      "absoluteMatch": 50,
+      "cosine": 0,
+      "match": 50,
+      "weight": 0.0625,
+      "rank": 1
+    },
+    {
+      "item": {
+        "id": "invisibility_potion",
+        "name": "隐身药水",
+        "english": "INVISIBILITY POTION",
+        "core": "按自己的节奏，认真感受世界。",
+        "tags": [
+          "自主低调",
+          "个人体验"
+        ],
+        "color": "#a7bed6",
+        "review": "你喜欢保留自己的节奏，按真实的感受决定靠近什么、离开什么。留一点安静的空间，也能把体验过得很丰富。隐身药水适合你：给自己留出空间，更自由地观察和选择。",
+        "tip": "当你希望被理解时，也可以主动让重要的人看见。",
+        "prototypeCode": "10010",
+        "profile": [
+          1,
+          -1,
+          -1,
+          1,
+          -1
+        ]
+      },
+      "order": 13,
+      "prototypeCode": "10010",
+      "rawScore": 0,
+      "contributions": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "dimensionMatches": [
+        50,
+        50,
+        50,
+        50,
+        50
+      ],
+      "absoluteMatch": 50,
+      "cosine": 0,
+      "match": 50,
+      "weight": 0.0625,
+      "rank": 1
+    },
+    {
+      "item": {
+        "id": "ender_pearl",
+        "name": "末影珍珠",
+        "english": "ENDER PEARL",
+        "core": "看准落点，就迈出那一步。",
+        "tags": [
+          "果断行动",
+          "承担风险"
+        ],
+        "color": "#6ac4ac",
+        "review": "当机会就在眼前，你更愿意选定方向、采取行动，再根据落地后的情况调整。末影珍珠适合你的果断：用一次实际的尝试跨过犹豫，也愿意承担选择带来的变化。",
+        "tip": "出手前多看一眼落点，会让勇气更有把握。",
+        "prototypeCode": "00101",
+        "profile": [
+          -1,
+          -1,
+          1,
+          -1,
+          1
+        ]
+      },
+      "order": 14,
+      "prototypeCode": "00101",
+      "rawScore": 0,
+      "contributions": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "dimensionMatches": [
+        50,
+        50,
+        50,
+        50,
+        50
+      ],
+      "absoluteMatch": 50,
+      "cosine": 0,
+      "match": 50,
+      "weight": 0.0625,
+      "rank": 1
+    },
+    {
+      "item": {
+        "id": "wind_charge",
+        "name": "风弹",
+        "english": "WIND CHARGE",
+        "core": "接住当下，把现场变得有意思。",
+        "tags": [
+          "即兴活跃",
+          "现场体验"
+        ],
+        "color": "#c4dcde",
+        "review": "你能从当下的气氛里找到灵感，也愿意用一个点子或一次行动让现场活起来。风弹适合你的轻快：顺势而起，把眼前的瞬间变成值得记住的共同体验。",
+        "tip": "留意大家的节奏，让热闹也有舒服的落点。",
+        "prototypeCode": "00110",
+        "profile": [
+          -1,
+          -1,
+          1,
+          1,
+          -1
+        ]
+      },
+      "order": 15,
+      "prototypeCode": "00110",
+      "rawScore": 0,
+      "contributions": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "dimensionMatches": [
+        50,
+        50,
+        50,
+        50,
+        50
+      ],
+      "absoluteMatch": 50,
+      "cosine": 0,
+      "match": 50,
+      "weight": 0.0625,
+      "rank": 1
+    }
+  ],
+  "top3": [
+    {
+      "item": {
+        "id": "respawn_anchor",
+        "name": "重生锚",
+        "english": "RESPAWN ANCHOR",
+        "core": "把未来的退路，变成此刻的底气。",
+        "tags": [
+          "长线布局",
+          "提前准备"
+        ],
+        "color": "#b9a1eb",
+        "review": "你习惯把视线放得远一点。别人看到的是眼前的一步，你已经在为之后的转折留出空间。重生锚适合这样的你：提前准备，让出发更有底气。",
+        "tip": "偶尔也给计划留一个空位，让意外的风景进入。",
+        "prototypeCode": "11000",
+        "profile": [
+          1,
+          1,
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "order": 0,
+      "prototypeCode": "11000",
+      "rawScore": 0,
+      "contributions": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "dimensionMatches": [
+        50,
+        50,
+        50,
+        50,
+        50
+      ],
+      "absoluteMatch": 50,
+      "cosine": 0,
+      "match": 50,
+      "weight": 0.0625,
+      "rank": 1
+    },
+    {
+      "item": {
+        "id": "enchanting_table",
+        "name": "附魔台",
+        "english": "ENCHANTING TABLE",
+        "core": "有趣的答案，藏在机制深处。",
+        "tags": [
+          "研究机制",
+          "探索组合"
+        ],
+        "color": "#bda1eb",
+        "review": "你愿意花时间弄清一个工具背后的原理。拆解原理、比较差异，再试出一个意想不到的组合，是你投入一件事的方式。附魔台像你的工作台：知识积累起来，普通材料也能拥有新可能。",
+        "tip": "把研究中的小发现拿出来试一次，体验也会给你答案。",
+        "prototypeCode": "10001",
+        "profile": [
+          1,
+          -1,
+          -1,
+          -1,
+          1
+        ]
+      },
+      "order": 1,
+      "prototypeCode": "10001",
+      "rawScore": 0,
+      "contributions": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "dimensionMatches": [
+        50,
+        50,
+        50,
+        50,
+        50
+      ],
+      "absoluteMatch": 50,
+      "cosine": 0,
+      "match": 50,
+      "weight": 0.0625,
+      "rank": 1
+    },
+    {
+      "item": {
+        "id": "command_block",
+        "name": "命令方块",
+        "english": "COMMAND BLOCK",
+        "core": "把一个想法，推进成共同的现实。",
+        "tags": [
+          "统筹调度",
+          "推动执行"
+        ],
+        "color": "#e8b080",
+        "review": "面对零散的想法，你倾向于找出方向、安排步骤，再推动事情真正发生。命令方块适合你组织和调度的节奏：让复杂的事情有顺序，让大家的努力能落到同一个目标上。",
+        "tip": "推进之前给不同意见一点空间，执行会更顺畅。",
+        "prototypeCode": "11101",
+        "profile": [
+          1,
+          1,
+          1,
+          -1,
+          1
+        ]
+      },
+      "order": 2,
+      "prototypeCode": "11101",
+      "rawScore": 0,
+      "contributions": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "dimensionMatches": [
+        50,
+        50,
+        50,
+        50,
+        50
+      ],
+      "absoluteMatch": 50,
+      "cosine": 0,
+      "match": 50,
+      "weight": 0.0625,
+      "rank": 1
+    }
+  ],
+  "tiedFirst": [
+    "respawn_anchor",
+    "enchanting_table",
+    "command_block",
+    "slime_block",
+    "sculk_sensor",
+    "ender_chest",
+    "beacon",
+    "elytra",
+    "shulker_box",
+    "totem_of_undying",
+    "netherite_pickaxe",
+    "conduit",
+    "diamond_sword",
+    "invisibility_potion",
+    "ender_pearl",
+    "wind_charge"
+  ],
+  "config": {
+    "temperature": 0.1,
+    "gapThreshold": 0.06,
+    "tieTolerance": 1e-12,
+    "lowSignalThreshold": 0.15
+  },
+  "discrimination": {
+    "gap": 0,
+    "threshold": 0.06,
+    "lowSignal": true,
+    "status": "tied"
+  }
+}

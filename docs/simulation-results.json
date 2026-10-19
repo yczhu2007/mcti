@@ -1,0 +1,312 @@
+{
+  "cases": [
+    {
+      "name": "居中",
+      "oldScores": [
+        50,
+        50,
+        50,
+        50,
+        50,
+        50,
+        50,
+        50
+      ],
+      "vector": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "oldTop3": [
+        {
+          "id": "ender_chest",
+          "score": 80.23576462394763
+        },
+        {
+          "id": "sculk_sensor",
+          "score": 78.27731600377155
+        },
+        {
+          "id": "beacon",
+          "score": 77.99147892292623
+        }
+      ],
+      "oldGap": 1.9584486201760853,
+      "newTop3": [
+        {
+          "id": "respawn_anchor",
+          "rawScore": 0,
+          "match": 50,
+          "absoluteMatch": 50,
+          "weight": 0.0625,
+          "rank": 1
+        },
+        {
+          "id": "enchanting_table",
+          "rawScore": 0,
+          "match": 50,
+          "absoluteMatch": 50,
+          "weight": 0.0625,
+          "rank": 1
+        },
+        {
+          "id": "command_block",
+          "rawScore": 0,
+          "match": 50,
+          "absoluteMatch": 50,
+          "weight": 0.0625,
+          "rank": 1
+        }
+      ],
+      "discrimination": {
+        "gap": 0,
+        "threshold": 0.06,
+        "lowSignal": true,
+        "status": "tied"
+      },
+      "tiedFirst": [
+        "respawn_anchor",
+        "enchanting_table",
+        "command_block",
+        "slime_block",
+        "sculk_sensor",
+        "ender_chest",
+        "beacon",
+        "elytra",
+        "shulker_box",
+        "totem_of_undying",
+        "netherite_pickaxe",
+        "conduit",
+        "diamond_sword",
+        "invisibility_potion",
+        "ender_pearl",
+        "wind_charge"
+      ]
+    },
+    {
+      "name": "全部偏高",
+      "oldScores": [
+        90,
+        90,
+        90,
+        90,
+        90,
+        90,
+        90,
+        90
+      ],
+      "vector": [
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8
+      ],
+      "oldTop3": [
+        {
+          "id": "command_block",
+          "score": 73.30730436992172
+        },
+        {
+          "id": "beacon",
+          "score": 67.83829917432848
+        },
+        {
+          "id": "elytra",
+          "score": 66.50559748256435
+        }
+      ],
+      "oldGap": 5.46900519559324,
+      "newTop3": [
+        {
+          "id": "command_block",
+          "rawScore": 0.4800000000000001,
+          "match": 80,
+          "absoluteMatch": 74,
+          "weight": 0.1993374686930707,
+          "rank": 1
+        },
+        {
+          "id": "sculk_sensor",
+          "rawScore": 0.4800000000000001,
+          "match": 80,
+          "absoluteMatch": 74,
+          "weight": 0.1993374686930707,
+          "rank": 1
+        },
+        {
+          "id": "beacon",
+          "rawScore": 0.4800000000000001,
+          "match": 80,
+          "absoluteMatch": 74,
+          "weight": 0.1993374686930707,
+          "rank": 1
+        }
+      ],
+      "discrimination": {
+        "gap": 0,
+        "threshold": 0.06,
+        "lowSignal": false,
+        "status": "tied"
+      },
+      "tiedFirst": [
+        "command_block",
+        "sculk_sensor",
+        "beacon",
+        "elytra",
+        "conduit"
+      ]
+    },
+    {
+      "name": "全部偏低",
+      "oldScores": [
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10
+      ],
+      "vector": [
+        -0.8,
+        -0.8,
+        -0.8,
+        -0.8,
+        -0.8
+      ],
+      "oldTop3": [
+        {
+          "id": "ender_chest",
+          "score": 50.59731788657624
+        },
+        {
+          "id": "invisibility_potion",
+          "score": 47.64902102157019
+        },
+        {
+          "id": "totem_of_undying",
+          "score": 47.232822701986414
+        }
+      ],
+      "oldGap": 2.94829686500605,
+      "newTop3": [
+        {
+          "id": "diamond_sword",
+          "rawScore": 0.8,
+          "match": 99.99999999999999,
+          "absoluteMatch": 90,
+          "weight": 0.9836426361686468,
+          "rank": 1
+        },
+        {
+          "id": "respawn_anchor",
+          "rawScore": 0.16,
+          "match": 60,
+          "absoluteMatch": 58,
+          "weight": 0.0016343785763299982,
+          "rank": 2
+        },
+        {
+          "id": "enchanting_table",
+          "rawScore": 0.16,
+          "match": 60,
+          "absoluteMatch": 58,
+          "weight": 0.0016343785763299982,
+          "rank": 2
+        }
+      ],
+      "discrimination": {
+        "gap": 0.64,
+        "threshold": 0.06,
+        "lowSignal": false,
+        "status": "separated"
+      },
+      "tiedFirst": [
+        "diamond_sword"
+      ]
+    },
+    {
+      "name": "混合示例",
+      "oldScores": [
+        85,
+        70,
+        35,
+        80,
+        45,
+        70,
+        35,
+        80
+      ],
+      "vector": [
+        0.7,
+        0.4,
+        -0.3,
+        0.6,
+        -0.1
+      ],
+      "oldTop3": [
+        {
+          "id": "command_block",
+          "score": 85.42262026288675
+        },
+        {
+          "id": "beacon",
+          "score": 79.00893047031667
+        },
+        {
+          "id": "conduit",
+          "score": 77.0871215252208
+        }
+      ],
+      "oldGap": 6.413689792570082,
+      "newTop3": [
+        {
+          "id": "sculk_sensor",
+          "rawScore": 0.38,
+          "match": 90.32525419791084,
+          "absoluteMatch": 69,
+          "weight": 0.46786745651188405,
+          "rank": 1
+        },
+        {
+          "id": "beacon",
+          "rawScore": 0.3,
+          "match": 81.83572699835067,
+          "absoluteMatch": 65,
+          "weight": 0.21022639957864406,
+          "rank": 2
+        },
+        {
+          "id": "invisibility_potion",
+          "rawScore": 0.25999999999999995,
+          "match": 77.59096339857057,
+          "absoluteMatch": 63,
+          "weight": 0.14091896984346333,
+          "rank": 3
+        }
+      ],
+      "discrimination": {
+        "gap": 0.08000000000000002,
+        "threshold": 0.06,
+        "lowSignal": false,
+        "status": "separated"
+      },
+      "tiedFirst": [
+        "sculk_sensor"
+      ]
+    }
+  ],
+  "summary": {
+    "seed": 20261019,
+    "samples": 1000,
+    "note": "Independent synthetic score/answer draws. Old eight traits and new five traits are different constructs; gaps have different units. No accuracy claim.",
+    "oldMedianGapPercentagePoints": 1.6645661305430721,
+    "newMedianRawGap": 0.04444444444444445,
+    "newLowOrTied": 632,
+    "newTied": 66
+  }
+}

@@ -1,0 +1,130 @@
+[
+  {
+    "id": "respawn_anchor",
+    "file": "Invicon_Respawn_Anchor.png",
+    "archive_url": "https://wiki.ronlab.site/content/minecraftwiki_en_all_maxi_2025-11/_assets_/5af80496508534f4cdd561aac15bbc50/Invicon_Respawn_Anchor.png",
+    "original_url": "https://minecraft.wiki/w/File:Invicon_Respawn_Anchor.png",
+    "source_sha256": "ef6211a6d49e02a13e185d0027c2952a7ac5932593da06eadc5d10dc42a0778a",
+    "sha256": "33002bac5d2c8ddd9118762664df71d87e8e6a8c1368b24c779998ba0e372d58"
+  },
+  {
+    "id": "enchanting_table",
+    "file": "Invicon_Enchanting_Table.png",
+    "archive_url": "https://wiki.ronlab.site/content/minecraftwiki_en_all_maxi_2025-11/_assets_/5af80496508534f4cdd561aac15bbc50/Invicon_Enchanting_Table.png",
+    "original_url": "https://minecraft.wiki/w/File:Invicon_Enchanting_Table.png",
+    "source_sha256": "55950436c8bfc306f5e495b466af3491fb67a51f42ead00f1b0cb5fc499f9fb8",
+    "sha256": "b47d2def84174399d6fbef9e67156672bbde7153757f35da396d7a6a56cd0b4c"
+  },
+  {
+    "id": "command_block",
+    "file": "Invicon_Command_Block.gif",
+    "archive_url": "https://wiki.ronlab.site/content/minecraftwiki_en_all_maxi_2025-11/_assets_/5af80496508534f4cdd561aac15bbc50/Invicon_Command_Block.gif",
+    "original_url": "https://minecraft.wiki/w/File:Invicon_Command_Block.gif",
+    "source_sha256": "223a38b0a525fa2f21b22329e1f9c48a0099799efa310cb1bd458ae3a776cbb5",
+    "sha256": "e6212f137cc345cffa5fa9f68e4827bb1335adbe1f14ad77a7183f70a7d1a8ab"
+  },
+  {
+    "id": "slime_block",
+    "file": "Invicon_Slime_Block.png",
+    "archive_url": "https://wiki.ronlab.site/content/minecraftwiki_en_all_maxi_2025-11/_assets_/5af80496508534f4cdd561aac15bbc50/Invicon_Slime_Block.png",
+    "original_url": "https://minecraft.wiki/w/File:Invicon_Slime_Block.png",
+    "source_sha256": "90278d3a9d29a79d424d1471e91bb83178576e40388de6429c89988aba3afaea",
+    "sha256": "ec9ede0307fb479d982060c3d62743b4fabd18aca75c9bcdd314c66ef57abf13"
+  },
+  {
+    "id": "sculk_sensor",
+    "file": "Invicon_Sculk_Sensor.gif",
+    "archive_url": "https://wiki.ronlab.site/content/minecraftwiki_en_all_maxi_2025-11/_assets_/5af80496508534f4cdd561aac15bbc50/Invicon_Sculk_Sensor.gif",
+    "original_url": "https://minecraft.wiki/w/File:Invicon_Sculk_Sensor.gif",
+    "source_sha256": "e2f4fb5906412b63d230d627dcf8d73e5d0d9ae1e36cc842dfe675dea59ab86b",
+    "sha256": "30298f738fa596c7d37889a84427d4e5fb5ce8d0f740bdbea9cd1cf5cafcb690"
+  },
+  {
+    "id": "ender_chest",
+    "file": "Invicon_Ender_Chest.png",
+    "archive_url": "https://wiki.ronlab.site/content/minecraftwiki_en_all_maxi_2025-11/_assets_/5af80496508534f4cdd561aac15bbc50/Invicon_Ender_Chest.png",
+    "original_url": "https://minecraft.wiki/w/File:Invicon_Ender_Chest.png",
+    "source_sha256": "bab9fc8bac31efbe8554e9c53827bb3d9bd17b964c1f71e5624c0329cc0d6930",
+    "sha256": "0baab7bee199b95806bfc6faa9b694ef8e21fc33512a49cc75e9b0cc33d1817c"
+  },
+  {
+    "id": "beacon",
+    "file": "Invicon_Beacon.png",
+    "archive_url": "https://wiki.ronlab.site/content/minecraftwiki_en_all_maxi_2025-11/_assets_/5af80496508534f4cdd561aac15bbc50/Invicon_Beacon.png",
+    "original_url": "https://minecraft.wiki/w/File:Invicon_Beacon.png",
+    "source_sha256": "2d11b85bf9e6df80ec0e20d9caf5b6a33a46a01538e848f8366d0c74de45893c",
+    "sha256": "da0369974509a1e735aea59c94b1d514ff9a70a50053fd042627cb15d0fd31ce"
+  },
+  {
+    "id": "elytra",
+    "file": "Invicon_Elytra.png",
+    "archive_url": "https://wiki.ronlab.site/content/minecraftwiki_en_all_maxi_2025-11/_assets_/5af80496508534f4cdd561aac15bbc50/Invicon_Elytra.png",
+    "original_url": "https://minecraft.wiki/w/File:Invicon_Elytra.png",
+    "source_sha256": "ff3bcff29280521baa008db2b0a868156a87a2b0203b79629cc4c21498d2be1c",
+    "sha256": "9f0534a5ed002c0088b84732ff44df48558b57587475e232ffb7ae5c36b23680"
+  },
+  {
+    "id": "shulker_box",
+    "file": "Invicon_Shulker_Box.png",
+    "archive_url": "https://wiki.ronlab.site/content/minecraftwiki_en_all_maxi_2025-11/_assets_/5af80496508534f4cdd561aac15bbc50/Invicon_Shulker_Box.png",
+    "original_url": "https://minecraft.wiki/w/File:Invicon_Shulker_Box.png",
+    "source_sha256": "292b5cefbe205ab00bb7ca92238b45e361643eca70b38c6d33967c6fd77b6f4f",
+    "sha256": "b5bf31cb898c9cbbe0e7f3902eef2916c6cf748704fd96876ff76542e09f1dc3"
+  },
+  {
+    "id": "totem_of_undying",
+    "file": "Invicon_Totem_of_Undying.png",
+    "archive_url": "https://wiki.ronlab.site/content/minecraftwiki_en_all_maxi_2025-11/_assets_/5af80496508534f4cdd561aac15bbc50/Invicon_Totem_of_Undying.png",
+    "original_url": "https://minecraft.wiki/w/File:Invicon_Totem_of_Undying.png",
+    "source_sha256": "4f8001e23c5f7bfe802ccf757185ec8506c968ef46537be52b082aae92bd0afa",
+    "sha256": "bae57ddbb39cfb48d6f6a0221456bcf597bddb6a3d8e93f232155168218adbbc"
+  },
+  {
+    "id": "netherite_pickaxe",
+    "file": "Invicon_Netherite_Pickaxe.png",
+    "archive_url": "https://wiki.ronlab.site/content/minecraftwiki_en_all_maxi_2025-11/_assets_/5af80496508534f4cdd561aac15bbc50/Invicon_Netherite_Pickaxe.png",
+    "original_url": "https://minecraft.wiki/w/File:Invicon_Netherite_Pickaxe.png",
+    "source_sha256": "4439a3b445e25a813aea7b839bca7da6bf5f776720deffd9f49846d1942102ce",
+    "sha256": "c7a955aca9dce81e25c02d3d8b4e92b27aa2b4bc20efa7e6ad26fd7de039b105"
+  },
+  {
+    "id": "conduit",
+    "file": "Invicon_Conduit.png",
+    "archive_url": "https://wiki.ronlab.site/content/minecraftwiki_en_all_maxi_2025-11/_assets_/5af80496508534f4cdd561aac15bbc50/Invicon_Conduit.png",
+    "original_url": "https://minecraft.wiki/w/File:Invicon_Conduit.png",
+    "source_sha256": "b47f7cfbd25b3f23faf04da3afef690a3ce2af65d7d4e608be4afa4b8417226c",
+    "sha256": "966a7e7f1f8c829ccc1eac68fad24ec5588599223e1acc18ce4d94df579f47be"
+  },
+  {
+    "id": "diamond_sword",
+    "file": "Invicon_Diamond_Sword.png",
+    "archive_url": "https://wiki.ronlab.site/content/minecraftwiki_en_all_maxi_2025-11/_assets_/5af80496508534f4cdd561aac15bbc50/Invicon_Diamond_Sword.png",
+    "original_url": "https://minecraft.wiki/w/File:Invicon_Diamond_Sword.png",
+    "source_sha256": "d51d6332c5ae0c00496d509bedeed913713706e6ba4a8005f1f76ce3d86d576a",
+    "sha256": "45698e2f8e08bb227589c13874f2a068408956ebf430146829bde431b25daba6"
+  },
+  {
+    "id": "invisibility_potion",
+    "file": "Invicon_Potion_of_Invisibility.png",
+    "archive_url": "https://wiki.ronlab.site/content/minecraftwiki_en_all_maxi_2025-11/_assets_/5af80496508534f4cdd561aac15bbc50/Invicon_Potion_of_Invisibility.png",
+    "original_url": "https://minecraft.wiki/w/File:Invicon_Potion_of_Invisibility.png",
+    "source_sha256": "dff694aa63aaf1e48b3d133e55f0ebca6a67e8c4fd2b5ed9aef120ff8b3306d9",
+    "sha256": "161b571306dd7912f38196693123bbb7f584d4acfa35b39cc9735024a952ca73"
+  },
+  {
+    "id": "ender_pearl",
+    "file": "Invicon_Ender_Pearl.png",
+    "archive_url": "https://wiki.ronlab.site/content/minecraftwiki_en_all_maxi_2025-11/_assets_/5af80496508534f4cdd561aac15bbc50/Invicon_Ender_Pearl.png",
+    "original_url": "https://minecraft.wiki/w/File:Invicon_Ender_Pearl.png",
+    "source_sha256": "1c308f5225e9cfc3428a2378ae1405380d09685dabf7c6bfc0ed62d7d5b502fc",
+    "sha256": "173bce3094553f059498961fe4a12c2b356b7be1a36d0b59422ac3c9f4a0dc23"
+  },
+  {
+    "id": "wind_charge",
+    "file": "Invicon_Wind_Charge.png",
+    "archive_url": "https://wiki.ronlab.site/content/minecraftwiki_en_all_maxi_2025-11/_assets_/5af80496508534f4cdd561aac15bbc50/Invicon_Wind_Charge.png",
+    "original_url": "https://minecraft.wiki/w/File:Invicon_Wind_Charge.png",
+    "source_sha256": "01515ca3032c9d801b646ad6945cd64afe6d4ac2d5d7dbeeaea7fad47b2dc7cc",
+    "sha256": "1a4346e96d3afa082ffb4153c3d8ff9d51a70bfdefd41f5c727c5de617b0cff2"
+  }
+]
